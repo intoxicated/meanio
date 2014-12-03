@@ -1,5 +1,5 @@
 {
-	"name": "garden prototype",
+	"name": "garden-prototype",
 	"main": "server.js",
 	"dependencies": {
 		"express" : "~4.5.1",
