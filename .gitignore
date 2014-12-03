@@ -1,1 +1,8 @@
+config/data/
+scopes/
+.idea/
 node_modules/
+db/
+public/libs/
+.name
+
